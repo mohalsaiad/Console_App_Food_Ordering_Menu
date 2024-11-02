@@ -17,15 +17,15 @@ This is a basic Java console application that simulates a food ordering system f
 
 ### Example Interaction
 
-**************** Willkommen in unserem Café ****************
-==========================================================
-           1.Pommes Frites          100/-
-           2.Burger                 120/-
-           3.Gebäck                 100/-
-           4.Kalte Getränke         80/-
-           5.Eiskaffee              100/-
-           6.Pizza                  200/-
-           7.Eistee                 80/-
-           8.Beenden                     
-==========================================================
-          Was möchten Sie heute bestellen?
+******** Willkommen in unserem Café ********
+============================================
+     1.Pommes Frites          100/-
+     2.Burger                 120/-
+     3.Gebäck                 100/-
+     4.Kalte Getränke         80/-
+     5.Eiskaffee              100/-
+     6.Pizza                  200/-
+     7.Eistee                 80/-
+     8.Beenden                     
+==============================================
+     Was möchten Sie heute bestellen?
