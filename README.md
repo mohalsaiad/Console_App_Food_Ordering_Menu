@@ -27,5 +27,5 @@ This is a basic Java console application that simulates a food ordering system f
      6.Pizza                  200/-
      7.Eistee                 80/-
      8.Beenden                     
-==============================================
+==============================================<br/>
      Was möchten Sie heute bestellen?
